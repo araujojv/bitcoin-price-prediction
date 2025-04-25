@@ -1,0 +1,6 @@
+pandas
+yfinance
+scikit-learn
+xgboost
+mwclient
+transformers
